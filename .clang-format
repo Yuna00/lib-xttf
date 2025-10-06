@@ -1,0 +1,6 @@
+AllowShortIfStatementsOnASingleLine: Always
+AllowShortBlocksOnASingleLine: Always
+MacroBlockBegin: ''
+MacroBlockEnd: ''
+IndentPPDirectives: None
+ColumnLimit: 80
