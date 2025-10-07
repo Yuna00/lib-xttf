@@ -1,4 +1,4 @@
-#include "load.h"
+#include "../inc/load.h"
 #include <xcb/xcb.h>
 int main(void) {
 
